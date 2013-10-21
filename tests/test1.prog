@@ -1,0 +1,3 @@
+int a = 1 + 1; //This adds 1 and 1
+a += 3;
+print( a ); // this prints 5
